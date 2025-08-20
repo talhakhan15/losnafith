@@ -1,10 +1,10 @@
-# Loan Application Automation (API + UI)
+# Islamic finance Application Automation (API + UI)
 
-This project automates a **loan application process** by combining **REST API testing** with **Playwright UI automation**, all in **Python**.  
+This project automates a **Islamic finance application process** by combining **REST API testing** with **Playwright UI automation**, all in **Python**.  
 
 The flow is fully scripted to simulate a real customer journey:
 1. User login (API)
-2. Loan application process via API steps:
+2. Islamic finance application process via API steps:
    - Finance
    - Verification
    - Simmah Consent
@@ -27,9 +27,9 @@ The flow is fully scripted to simulate a real customer journey:
 ---
 
 ## 🚀 Features
-- End-to-end loan application simulation.  
+- End-to-end Islamic finance application simulation.  
 - Pauses at e-Promissory step for manual input (`press q to continue`).  
-- Verifies loan status in the dashboard UI (headless).  
+- Verifies Islamic finance status in the dashboard UI (headless).  
 - Handles multiple users and test data.  
 
 ---
@@ -38,5 +38,5 @@ The flow is fully scripted to simulate a real customer journey:
 
 ### 1. Clone repo
 ```bash
-git clone https://github.com/yourusername/loan-automation.git
-cd loan-automation
+git clone https://github.com/yourusername/Islamic finance-automation.git
+cd Islamic finance-automation
